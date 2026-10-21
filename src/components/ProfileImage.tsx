@@ -2,7 +2,7 @@
 import { User } from 'lucide-react';
 import { personal } from '@/data/personal';
 
-const profileImageUrl = '/profile.jpg'; // Example: '/profile.jpg'
+const profileImageUrl = `${import.meta.env.BASE_URL}profile.jpg`;
 
 export default function ProfileImage() {
   return (
