@@ -14,7 +14,7 @@ export interface PersonalInfo {
 
 export const personal: PersonalInfo = {
   name: 'Ahmed Ehab',
-  headline: 'Data Scientist & Aspiring Data Engineer',
+  headline: 'Aspiring Data Scientist & Data Engineer',
   tagline: 'Transforming Raw Data into Actionable Insights & Robust Pipelines',
   resumeUrl: 'https://drive.google.com/file/d/1mi4X44Qq75cz7Pss3pHcHP_Xs-XsMrNY/view?usp=sharing',
 about: [
