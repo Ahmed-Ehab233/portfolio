@@ -129,4 +129,21 @@ export const programs: Program[] = [
     ],
     certificateUrl: 'https://lnkd.in/p/e3ARM4aU', 
   },
+  {
+  title: 'Power BI Fundamentals Track',
+  organization: 'DataCamp',
+  role: '',
+  status: 'Ongoing',
+  period: '',
+  kind: 'course',
+  description:
+    'Currently working through the Power BI Fundamentals track on DataCamp, developing skills in DAX, data visualization, data preparation, and data modeling, with practical applications including a customer churn analysis case study.',
+  topics: [
+    'Power BI',
+    'DAX',
+    'Data Visualization',
+    'Data Preparation',
+    'Data Modeling',
+  ],
+},
 ];
