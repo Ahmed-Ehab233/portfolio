@@ -16,7 +16,7 @@ export default function Experience() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <SectionHeading
           title="Experience"
-          subtitle="Intensive, applied programs where I am building real-world data engineering experience."
+          subtitle="Building practical skills through training, projects, and applied learning in data."
         />
 
         <div className="grid grid-cols-1 gap-6">
