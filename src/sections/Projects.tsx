@@ -22,7 +22,7 @@ export default function Projects() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <SectionHeading
           title="Featured Projects"
-          subtitle="A selection of projects in machine learning, business intelligence, and application development."
+          subtitle="Applying what I learn through projects in machine learning, data analytics, and database systems."
         />
 
         <div className="grid grid-cols-1 items-start gap-6 md:grid-cols-2 lg:grid-cols-3">
