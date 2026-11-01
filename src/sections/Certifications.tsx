@@ -16,7 +16,7 @@ export default function Certifications() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <SectionHeading
           title="Certifications & Courses"
-          subtitle="Specialized courses and global programs deepening my expertise in data science and AI."
+          subtitle="Specialized courses and global programs deepening my expertise in data fields."
         />
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
