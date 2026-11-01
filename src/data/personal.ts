@@ -16,7 +16,7 @@ export const personal: PersonalInfo = {
   name: 'Ahmed Ehab',
   headline: 'Aspiring Data Scientist & Data Engineer',
   tagline: 'Transforming Raw Data into Actionable Insights & Robust Pipelines',
-  resumeUrl: 'https://drive.google.com/file/d/1mi4X44Qq75cz7Pss3pHcHP_Xs-XsMrNY/view?usp=sharing',
+  resumeUrl: 'https://drive.google.com/file/d/1u95gFKceSHFQOW4bmHzPpkENvk_ZfdCs/view?usp=sharing',
 about: [
   "I’m detail-oriented by nature, driven by curiosity and a desire to understand how things work. I use Python and SQL to process and transform data, machine learning to uncover patterns, and Power BI and Tableau to turn findings into actionable insights.",
 
